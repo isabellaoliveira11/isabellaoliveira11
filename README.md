@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Isabela 👋</h1>
 
 <p align="center">
-  <img src="isapixel.png" alt="Foto Isabela Oliveira" width="200px" />
+  <img src="isapixel2.png" alt="Foto Isabela Oliveira" width="200px" />
 </p>
 
 <p align="center">
