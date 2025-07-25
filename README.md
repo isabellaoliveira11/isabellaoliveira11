@@ -7,7 +7,7 @@
 <p align="center">
   Desenvolvedora Web Full Stack, com especialização em Front-End e foco em experiência do usuário. <br>
   Crio soluções digitais modernas e funcionais, com atenção aos detalhes de UI/UX. <br>
-  Sou também professora de tecnologia — compartilho conhecimento e ajudo novas pessoas a ingressarem no mundo da programação. <br>
+  Sou também professora de tecnologia compartilho conhecimento e ajudo novas pessoas a ingressarem no mundo da programação. <br>
   <br>
 </p>
 
@@ -42,8 +42,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaoliveira11&layout=compact&theme=dracula" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=isabellaoliveira11&theme=react&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
+</p>
+
 ---
 
 <h3 align="center">💡 Transformando boas ideias em experiências incríveis ❤️</h3>
 
-<p align="center"><strong>Isabela Oliveira</strong></p>
+<p align="center"><strong>
