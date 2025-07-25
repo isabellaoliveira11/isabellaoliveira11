@@ -39,7 +39,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaoliveira11&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaoliveira11&layout=compact&theme=midnight-purple" height="150"/>
 </p>
 
 <p align="center">
