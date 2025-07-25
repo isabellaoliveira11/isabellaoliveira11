@@ -43,8 +43,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=isabellaoliveira11&theme=react&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=isabellaoliveira11&theme=purple&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
 </p>
+
 
 ---
 
