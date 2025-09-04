@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  💻 Desenvolvedora Web Full Stack com especialização em Front-End moderno e experiência do usuário. <br>
+  💻 Desenvolvedora Full Stack. <br>
   🚀 Crio soluções digitais funcionais, acessíveis e bem projetadas, com atenção a UI/UX. <br>
-  👩‍🏫 Professora de tecnologia há mais de 5 anos, compartilho conhecimento e ajudo novas pessoas a ingressarem no mundo da programação. <br>
 </p>
 
 ---
@@ -17,7 +16,7 @@
 Sou Isabela Oliveira, desenvolvedora e educadora apaixonada por tecnologia.
 
 🎓 Graduada em Análise e Desenvolvimento de Sistemas e cursando Licenciatura em Computação (UEL).  
-📚 Com 5+ anos de experiência como professora, já orientei projetos educacionais, técnicos e voltados ao mercado.  
+👩‍🏫 Professora de tecnologia há mais de 5 anos, compartilho conhecimento e ajudo novas pessoas a ingressarem no mundo da programação.
 💻 Full Stack Developer com domínio em React, TypeScript, Node.js, Tailwind, PostgreSQL, Prisma e outras tecnologias modernas.  
 🧠 Estudo constantemente arquitetura de software, boas práticas de desenvolvimento e design de interfaces.  
 🚀 No momento, lidero e contribuo em projetos com IA, sistemas de vendas, plataformas educacionais e apps mobile.
@@ -52,10 +51,6 @@ Sou Isabela Oliveira, desenvolvedora e educadora apaixonada por tecnologia.
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaoliveira11&layout=compact&theme=midnight-purple" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=isabellaoliveira11&theme=midnight-purple&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
