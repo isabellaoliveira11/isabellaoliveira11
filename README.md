@@ -5,20 +5,32 @@
 </p>
 
 <p align="center">
-  Desenvolvedora Web Full Stack, com especialização em Front-End e foco em experiência do usuário. <br>
-  Crio soluções digitais modernas e funcionais, com atenção aos detalhes de UI/UX. <br>
-  Sou também professora de tecnologia compartilho conhecimento e ajudo novas pessoas a ingressarem no mundo da programação. <br>
-  <br>
+  💻 Desenvolvedora Web Full Stack com especialização em Front-End moderno e experiência do usuário. <br>
+  🚀 Crio soluções digitais funcionais, acessíveis e bem projetadas, com atenção a UI/UX. <br>
+  👩‍🏫 Professora de tecnologia há mais de 5 anos, compartilho conhecimento e ajudo novas pessoas a ingressarem no mundo da programação. <br>
 </p>
 
 ---
 
-## Sobre mim
+## 👩‍💻 Sobre mim
 
-👨‍💻 Com 5+ anos de experiência como professora, ajudo novos talentos a ingressarem no mundo da programação.  
-🎓 Graduada em Análise e Desenvolvimento de Sistemas e Cursando Licenciatura em Computação.  
-💻 Full Stack Developer com foco em projetos web modernos, responsivos e funcionais.  
-🚀 Atualmente, estou desenvolvendo um sistema de academia com inteligência artificial.
+Sou Isabela Oliveira, desenvolvedora e educadora apaixonada por tecnologia.
+
+🎓 Graduada em Análise e Desenvolvimento de Sistemas e cursando Licenciatura em Computação (UEL).  
+📚 Com 5+ anos de experiência como professora, já orientei projetos educacionais, técnicos e voltados ao mercado.  
+💻 Full Stack Developer com domínio em React, TypeScript, Node.js, Tailwind, PostgreSQL, Prisma e outras tecnologias modernas.  
+🧠 Estudo constantemente arquitetura de software, boas práticas de desenvolvimento e design de interfaces.  
+🚀 No momento, lidero e contribuo em projetos com IA, sistemas de vendas, plataformas educacionais e apps mobile.
+
+---
+
+## ⚙️ Projetos em Destaque
+
+- **FitIA** – App + Dashboard com IA para academias preverem cancelamentos e engajar alunos.
+- **Vendyx** – Sistema de vendas e estoque com foco em pequenas empresas, responsivo e modular.
+- **Oxion** – Plataforma para professores de idiomas gerenciarem turmas, alunos e atividades.
+- **Organize** – Sistema de agendamento de serviços, em parceria com a +PraTi.
+- **TechNotícia** – Portal de notícias que consome API do Google News com filtros e UX refinada.
 
 ---
 
@@ -26,12 +38,15 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
 </p>
 
 ---
@@ -46,9 +61,8 @@
   <img src="https://streak-stats.demolab.com?user=isabellaoliveira11&theme=midnight-purple&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
 </p>
 
-
 ---
 
 <h3 align="center">💡 Transformando boas ideias em experiências incríveis ❤️</h3>
 
-<p align="center"><strong>
+<p align="center"><strong>Let's build something amazing together!</strong></p>
