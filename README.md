@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-👨‍💻 Com 2+ anos de experiência como professora, ajudo novos talentos a ingressarem no mundo da programação.  
+👨‍💻 Com 5+ anos de experiência como professora, ajudo novos talentos a ingressarem no mundo da programação.  
 🎓 Graduada em Análise e Desenvolvimento de Sistemas e Cursando Licenciatura em Computação.  
 💻 Full Stack Developer com foco em projetos web modernos, responsivos e funcionais.  
 🚀 Atualmente, estou desenvolvendo um sistema de academia com inteligência artificial.
