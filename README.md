@@ -56,6 +56,11 @@ Sou Isabela Oliveira, desenvolvedora e educadora apaixonada por tecnologia.
   <img src="https://streak-stats.demolab.com?user=isabellaoliveira11&theme=midnight-purple&border_radius=10&count_private=true" alt="🔥 GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaoliveira11&layout=compact&theme=midnight-purple" height="150"/>
+</p>
+
+
 ---
 
 <h3 align="center">💡 Transformando boas ideias em experiências incríveis ❤️</h3>
